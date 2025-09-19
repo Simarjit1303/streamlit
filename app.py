@@ -43,7 +43,7 @@ import numpy as np
 # streamlit.write("streamlit.map:")
 # streamlit.map(map_data)
 
-sidebar = streamlit.sidebar("test sidebar")
+# sidebar = streamlit.sidebar("test sidebar")
 
 
 tabs = streamlit.tabs(["CHARST", "help"])
