@@ -1,3 +1,3 @@
-# streamlit
+# Streamlit
 
-a simple streamlit app!
+A Simple streamlit app!
